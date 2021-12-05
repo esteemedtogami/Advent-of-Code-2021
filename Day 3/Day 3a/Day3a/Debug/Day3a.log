@@ -1,0 +1,4 @@
+﻿  Day3a.cpp
+D:\Documents - HDD\Code\Advent of Code 2021\Day 3\Day 3a\Day3a\Day3a.cpp(33,31): warning C4018: '<': signed/unsigned mismatch
+D:\Documents - HDD\Code\Advent of Code 2021\Day 3\Day 3a\Day3a\Day3a.cpp(66,23): warning C4018: '<': signed/unsigned mismatch
+  Day3a.vcxproj -> D:\Documents - HDD\Code\Advent of Code 2021\Day 3\Day 3a\Day3a\Debug\Day3a.exe

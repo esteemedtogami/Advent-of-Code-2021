@@ -1,0 +1,8 @@
+﻿  Day3b.cpp
+D:\Documents - HDD\Code\Advent of Code 2021\Day 3\Day 3b\Day3b\Day3b.cpp(50,27): warning C4018: '<': signed/unsigned mismatch
+D:\Documents - HDD\Code\Advent of Code 2021\Day 3\Day 3b\Day3b\Day3b.cpp(64,31): warning C4018: '<': signed/unsigned mismatch
+D:\Documents - HDD\Code\Advent of Code 2021\Day 3\Day 3b\Day3b\Day3b.cpp(74,31): warning C4018: '<': signed/unsigned mismatch
+D:\Documents - HDD\Code\Advent of Code 2021\Day 3\Day 3b\Day3b\Day3b.cpp(101,27): warning C4018: '<': signed/unsigned mismatch
+D:\Documents - HDD\Code\Advent of Code 2021\Day 3\Day 3b\Day3b\Day3b.cpp(115,31): warning C4018: '<': signed/unsigned mismatch
+D:\Documents - HDD\Code\Advent of Code 2021\Day 3\Day 3b\Day3b\Day3b.cpp(125,31): warning C4018: '<': signed/unsigned mismatch
+  Day3b.vcxproj -> D:\Documents - HDD\Code\Advent of Code 2021\Day 3\Day 3b\Day3b\Debug\Day3b.exe
