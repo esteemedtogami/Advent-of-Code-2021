@@ -1,0 +1,8 @@
+﻿  Day4b.cpp
+D:\Documents - HDD\Code\Advent-of-Code-2021\Day 4\Day 4b\Day4b\Day4b.cpp(85,23): warning C4018: '<': signed/unsigned mismatch
+D:\Documents - HDD\Code\Advent-of-Code-2021\Day 4\Day 4b\Day4b\Day4b.cpp(88,27): warning C4018: '<': signed/unsigned mismatch
+D:\Documents - HDD\Code\Advent-of-Code-2021\Day 4\Day 4b\Day4b\Day4b.cpp(91,31): warning C4018: '<': signed/unsigned mismatch
+D:\Documents - HDD\Code\Advent-of-Code-2021\Day 4\Day 4b\Day4b\Day4b.cpp(94,35): warning C4018: '<': signed/unsigned mismatch
+D:\Documents - HDD\Code\Advent-of-Code-2021\Day 4\Day 4b\Day4b\Day4b.cpp(176,23): warning C4018: '<': signed/unsigned mismatch
+D:\Documents - HDD\Code\Advent-of-Code-2021\Day 4\Day 4b\Day4b\Day4b.cpp(178,27): warning C4018: '<': signed/unsigned mismatch
+  Day4b.vcxproj -> D:\Documents - HDD\Code\Advent-of-Code-2021\Day 4\Day 4b\Day4b\Debug\Day4b.exe
