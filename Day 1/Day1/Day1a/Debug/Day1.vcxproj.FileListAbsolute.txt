@@ -1,0 +1,4 @@
+D:\Documents - HDD\Code\Advent of Code 2021\Day 1\Day1\Debug\Day1.exe
+D:\Documents - HDD\Code\Advent of Code 2021\Day 1\Day1\Debug\Day1.pdb
+D:\Documents - HDD\Code\Advent of Code 2021\Day 1\Day1\Day1a\Debug\Day1.exe
+D:\Documents - HDD\Code\Advent of Code 2021\Day 1\Day1\Day1a\Debug\Day1.pdb
