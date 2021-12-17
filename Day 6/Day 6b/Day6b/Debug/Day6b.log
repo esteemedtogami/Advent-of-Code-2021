@@ -1,0 +1,4 @@
+﻿  Day6b.cpp
+D:\Documents - HDD\Code\Advent-of-Code-2021\Day 6\Day 6b\Day6b\Day6b.cpp(51,27): warning C4018: '<': signed/unsigned mismatch
+D:\Documents - HDD\Code\Advent-of-Code-2021\Day 6\Day 6b\Day6b\Day6b.cpp(70,27): warning C4018: '<': signed/unsigned mismatch
+  Day6b.vcxproj -> D:\Documents - HDD\Code\Advent-of-Code-2021\Day 6\Day 6b\Day6b\Debug\Day6b.exe
