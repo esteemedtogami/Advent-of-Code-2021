@@ -14,7 +14,8 @@
 #include <algorithm>
 #include <unordered_map>
 
-// Read signal data in from file and return total number of 1s, 4s, 7s, and 8s
+// Read signal data in from file, figure out what values map, return summed 
+// total
 int read_nums_from_file();
 
 int main()
